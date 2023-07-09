@@ -31,8 +31,4 @@
   <ItemGroup>
     <ProjectReference Include="..\PlayniteServices\PlayniteServices.csproj" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Properties\" />
-  </ItemGroup>
 </Project>
