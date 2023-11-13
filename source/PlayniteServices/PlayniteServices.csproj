@@ -21,16 +21,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\include\PlayniteSource\source7\PlayniteSDK\ILogger.cs" Link="Shared\ILogger.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\DiagnosticPackageInfo.cs" Link="Shared\DiagnosticPackageInfo.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\FileSystem.cs" Link="Shared\FileSystem.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\Logger.cs" Link="Shared\Logger.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\Paths.cs" Link="Shared\Paths.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\Roman.cs" Link="Shared\Roman.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\Serialization.cs" Link="Shared\Serialization.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\TypeExtensions\ListExtensions.cs" Link="Shared\ListExtensions.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\TypeExtensions\LongExtensions.cs" Link="Shared\LongExtensions.cs" />
-    <Compile Include="..\..\include\PlayniteSource\source7\Playnite\TypeExtensions\StringExtensions.cs" Link="Shared\StringExtensions.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\PlayniteSDK\ILogger.cs" Link="Shared\ILogger.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\DiagnosticPackageInfo.cs" Link="Shared\DiagnosticPackageInfo.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\FileSystem.cs" Link="Shared\FileSystem.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\Logger.cs" Link="Shared\Logger.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\Paths.cs" Link="Shared\Paths.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\Roman.cs" Link="Shared\Roman.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\Serialization.cs" Link="Shared\Serialization.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\TypeExtensions\ListExtensions.cs" Link="Shared\ListExtensions.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\TypeExtensions\LongExtensions.cs" Link="Shared\LongExtensions.cs" />
+    <Compile Include="..\..\Include\Playnite\source7\Playnite\TypeExtensions\StringExtensions.cs" Link="Shared\StringExtensions.cs" />
   </ItemGroup>
 
   <ItemGroup>
